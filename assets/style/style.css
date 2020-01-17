@@ -1,0 +1,40 @@
+/*h1 {
+	border: 2px solid pink;
+}*/
+
+.jumbotron {
+	background: url('../images/train-bg.jpg') #3440a6 100% no-repeat;
+	color: white;
+	letter-spacing: 1px;
+}
+
+#display-clock {
+	font-size: 24px;
+	font-weight: bold;
+	color: white;
+	letter-spacing: 1px;
+}
+
+.panel-primary {
+    border-color: #555974;
+}
+
+.panel-primary .panel-heading {
+	background-color: #555974;
+	border-color: #555974;
+	color: white;
+	letter-spacing: 1px;
+}
+
+.panel-default .panel-heading {
+	background-color: #555974;
+	color: white;
+	letter-spacing: 1px;
+}
+
+.btn-info {
+	background-color: #ff4d50;
+	border-color: #ff4d50;
+	color: white;
+	letter-spacing: 1px;
+}
